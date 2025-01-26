@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Far Cry 6",
+      "banner": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771",
+      "description": "Far Cry 6 é um jogo de ação e aventura em mundo aberto, onde você luta contra o regime opressor de Antón Castillo.",
+      "trailer": "link_para_o_trailer_far_cry_6",
+      "release_year": 2021,
+      "developer": "Ubisoft Toronto",
+      "publisher": "Ubisoft"
+    },
+    {
+      "id": 2,
+      "name": "Forza Horizon 5",
+      "banner": "https://www.portallos.com.br/wp-content/uploads/2021/11/fh5header.jpg",
+      "description": "Forza Horizon 5 é um jogo de corrida ambientado no México, com um mundo aberto vibrante e diversos tipos de terrenos.",
+      "trailer": "link_para_o_trailer_forza_horizon_5",
+      "release_year": 2021,
+      "developer": "Playground Games",
+      "publisher": "Xbox Game Studios"
+    },
+    {
+      "id": 3,
+      "name": "FIFA 23",
+      "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png",
+      "description": "FIFA 23 é um simulador de futebol que traz gráficos realistas, modos de jogo diversificados e jogabilidade aprimorada.",
+      "trailer": "link_para_o_trailer_fifa_23",
+      "release_year": 2022,
+      "developer": "EA Sports",
+      "publisher": "Electronic Arts"
+    },
+    {
+      "id": 4,
+      "name": "Minecraft",
+      "banner": "https://i.pinimg.com/736x/b7/64/d3/b764d3546a4a6910acb27faf851af2ab.jpg",
+      "description": "Minecraft é um jogo de construção e sobrevivência em um mundo pixelado infinito, com infinitas possibilidades criativas.",
+      "trailer": "link_para_o_trailer_minecraft",
+      "release_year": 2011,
+      "developer": "Mojang Studios",
+      "publisher": "Xbox Game Studios"
+    },
+    {
+      "id": 5,
+      "name": "Batman: Arkham Knight",
+      "banner": "https://image.api.playstation.com/cdn/UP1018/CUSA01764_00/daExAVIqaWz8NNeqTaFW2IcweYzqt4d8.png",
+      "description": "Batman: Arkham Knight é um jogo de ação e aventura que coloca o Cavaleiro das Trevas contra o misterioso Arkham Knight e outros vilões de Gotham.",
+      "trailer": "link_para_o_trailer_batman_arkham_knight",
+      "release_year": 2015,
+      "developer": "Rocksteady Studios",
+      "publisher": "Warner Bros. Interactive Entertainment"
+    },
+    {
+      "id": 6,
+      "name": "Grand Theft Auto V (GTA V)",
+      "banner": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png",
+      "description": "GTA V é um jogo de ação e aventura em mundo aberto que acompanha três personagens em uma história interligada cheia de crimes e exploração.",
+      "trailer": "link_para_o_trailer_gta_5",
+      "release_year": 2013,
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games"
+    },
+    {
+      "id": 7,
+      "name": "God of War: Ragnarok",
+      "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/EUg935xYj1xnRS8jkKAapzCp.png",
+      "description": "God of War: Ragnarok é um jogo de ação e aventura que continua a jornada de Kratos e Atreus em meio à mitologia nórdica.",
+      "trailer": "link_para_o_trailer_god_of_war_ragnarok",
+      "release_year": 2022,
+      "developer": "Santa Monica Studio",
+      "publisher": "Sony Interactive Entertainment"
+    },
+    {
+      "id": 8,
+      "name": "Injustice: Gods Among Us",
+      "banner": "https://m.media-amazon.com/images/I/810ES4luCwL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Injustice é um jogo de luta onde os heróis e vilões do universo DC batalham em um mundo alternativo onde Superman se torna tirano.",
+      "trailer": "link_para_o_trailer_injustice_1",
+      "release_year": 2013,
+      "developer": "NetherRealm Studios",
+      "publisher": "Warner Bros. Interactive Entertainment"
+    },
+    {
+      "id": 9,
+      "name": "The Last of Us",
+      "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png",
+      "description": "The Last of Us é um jogo de ação e sobrevivência que segue Joel e Ellie em uma jornada emocionante por um mundo pós-apocalíptico.",
+      "trailer": "link_para_o_trailer_the_last_of_us",
+      "release_year": 2013,
+      "developer": "Naughty Dog",
+      "publisher": "Sony Computer Entertainment"
+    },
+    {
+      "id": 10,
+      "name": "Spider-Man",
+      "banner": "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco2dwe&w=640&q=75",
+      "description": "Spider-Man é um jogo de ação e aventura onde você controla o herói aracnídeo enquanto enfrenta vilões em uma Nova York vibrante.",
+      "trailer": "link_para_o_trailer_spider_man",
+      "release_year": 2018,
+      "developer": "Insomniac Games",
+      "publisher": "Sony Interactive Entertainment"
+    }
+  ]
+  
